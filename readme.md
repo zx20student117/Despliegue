@@ -1,1 +1,1 @@
-Este es el archivo editado por Rubén M.
+Este es el archivo editado en local por Rubén M.
